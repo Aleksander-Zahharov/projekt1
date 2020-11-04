@@ -1,5 +1,8 @@
 h1{
 font-family: cursive;
-font-size: x-large;
+font-size:xx-large;
 text-align: left;
+}
+h2{
+    font-size: x-small;
 }
